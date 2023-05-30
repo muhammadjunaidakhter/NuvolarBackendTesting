@@ -51,7 +51,7 @@ To execute the automated tests, follow these steps:
 **Reporting**
 
 This project uses extent reports feature to generate detailed test reports. After running the tests, you can find the HTML reports in the test-output/RestAssuredReport.html directory. Open the RestAssuredReport.html file in a web browser to view the test execution summary.
-<img src="/readmePicture/reports.png" alt="Report-Picture">
+<img src="/readmePicture/report.png" alt="Report-Picture">
 
 **Contributing**
 
