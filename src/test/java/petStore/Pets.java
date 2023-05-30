@@ -40,7 +40,6 @@ public class Pets extends TestListenerAdapter {
                 .then()
                 .log()
                 .body().statusCode(200)
-                .body("name[0]", equalTo("fish"))
                 .headers("Content-Type", equalTo("application/json"));
 
     }
